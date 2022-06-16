@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://cdn-icons-png.flaticon.com/512/274/274412.png" width="150px"><br>
+	<img src="https://cdn-icons-png.flaticon.com/512/892/892794.png" width="150px"><br>
     Mation - An object-oriented binary to decimal utility.
 </h1>
 <p align="center">
