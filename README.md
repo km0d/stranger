@@ -5,9 +5,8 @@
 
 <p align="center">
     <a href="https://deno.land" target="_blank">
-        <img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
+	    <img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version"></a>
 </p>
-<h1></h1>
 
 **Compile**
 
