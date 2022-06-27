@@ -3,8 +3,6 @@
     stranger - A single thread multi-user web server using epoll.
 </h1>
 
-<h1></h1>
-
 **Compile**
 
 ```
