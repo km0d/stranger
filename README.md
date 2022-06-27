@@ -13,5 +13,8 @@
 ```
 gcc -o stranger stranger.c
 ```
-
+**Run**
+```
+./stranger
+```
 <h1></h1>
